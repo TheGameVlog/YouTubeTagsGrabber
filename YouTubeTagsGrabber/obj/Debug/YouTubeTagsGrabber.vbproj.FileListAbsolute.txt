@@ -1,0 +1,12 @@
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\bin\Debug\YouTubeTagsGrabber.exe.config
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\bin\Debug\YouTubeTagsGrabber.exe
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\bin\Debug\YouTubeTagsGrabber.pdb
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\bin\Debug\YouTubeTagsGrabber.xml
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.vbprojAssemblyReference.cache
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.Form1.resources
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.Resources.resources
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.vbproj.GenerateResource.cache
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.vbproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.exe
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.xml
+C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.pdb

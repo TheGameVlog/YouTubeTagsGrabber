@@ -43,4 +43,16 @@ Public Class Form1
         ProgressBar1.Maximum = e.MaximumProgress
         ProgressBar1.Value = e.CurrentProgress
     End Sub
+
+    Private Sub GroupBox1_Enter(sender As Object, e As EventArgs) Handles GroupBox1.Enter
+
+    End Sub
+
+    Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click
+        MsgBox("Time is formatted in PTXXMXXS.", MsgBoxStyle.Information, "Information:")
+    End Sub
+
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+        MsgBox("Click enter to start the process.", MsgBoxStyle.Information, "Information:")
+    End Sub
 End Class
