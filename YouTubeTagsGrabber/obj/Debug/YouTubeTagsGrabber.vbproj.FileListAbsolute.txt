@@ -10,3 +10,15 @@ C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debu
 C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.exe
 C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.xml
 C:\Users\Christian\Desktop\YouTubeTagsGrabber-master\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.pdb
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\bin\Debug\YouTubeTagsGrabber.exe.config
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\bin\Debug\YouTubeTagsGrabber.exe
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\bin\Debug\YouTubeTagsGrabber.pdb
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\bin\Debug\YouTubeTagsGrabber.xml
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.vbprojAssemblyReference.cache
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.Form1.resources
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.Resources.resources
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.vbproj.GenerateResource.cache
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.vbproj.CoreCompileInputs.cache
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.exe
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.xml
+F:\Initiotech Solutions\Github Contribution\YouTubeTagsGrabber\YouTubeTagsGrabber\obj\Debug\YouTubeTagsGrabber.pdb
